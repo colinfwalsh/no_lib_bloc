@@ -1,7 +1,9 @@
 # bloc_no_lib
 
-A new Flutter application.
+A simple application to demonstrate a generic bloc implementaiton without 3rd party dependency.  Very simple, but should be easy to expand to larger use cases.
 
+TO DO:
+- Add sample for networking using ```async*``` and ```yield```
 ## Getting Started
 
 This project is a starting point for a Flutter application.
